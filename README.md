@@ -5,6 +5,26 @@
 
  This will be my remote place to store books, when **progressing** thought them. They contain the **notes** also!
 
+
+<p align="center">
+    <img id="effective java" src="EffectiveJava.JPG" style="width: 300px;">
+</p>
+
+#### Progress/Curriculum.
+
+- [x] [Section 01](#) - Chapters here from the book!
+
+#### Additional stuff.
+
+- [x] All over the web, or example this one. [Source](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Effective%20Java,%202nd%20Edition.pdf)! ✅
+
+
+
+
+
+
+
+
 <p align="center">
     <img id="working effectively with legacy code" src="legacyCodePic.PNG" style=" width: 300px;">
 </p>
