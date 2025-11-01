@@ -5,6 +5,11 @@
 
  This will be my remote place to store books, when **progressing** thought them. They contain the **notes** also!
 
+ > I created to this to have some way for my future employer to see that I know this stuff and add links to cv that "these i have read".
+
+
+- Todo check the lisences! Some have Creative and some are free. Some are not. 
+
 <p align="center">
     <img id="effective java" src="EffectiveJava.JPG" style="width: 300px;">
 </p>
@@ -33,6 +38,15 @@
 
 #### Progress/Curriculum.
 
+
+
+
+<details>
+
+
+<summary id="wolfenstein 3d" open="true"> <b> Wolfenstein 3D progress! </b> </summary>
+
+
 - [ ] [Section 01: Introduction](#).
     - ...
 - [ ] [Section 02: Hardware](#).
@@ -42,7 +56,7 @@
 - [ ] [Section 04: Software](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#section-04---software)
     - [ ] [Tricks](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#tricks).
         - [ ] [Cos/Sin Table Lookup](#).
-        - [ ] [FizzleFade](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#fizzlefade).
+        - [x] [FizzleFade](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#fizzlefade). ✅
         - [ ] [Palette](#).
 - [ ] [Section 05: Sequels](#).
     - ...
@@ -50,6 +64,10 @@
     - ...
 - [ ] [Section 07: Epilogue](#)
     - ...
+
+</details>
+
+
 
 #### Additional stuff.
 
