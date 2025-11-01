@@ -5,7 +5,6 @@
 
  This will be my remote place to store books, when **progressing** thought them. They contain the **notes** also!
 
-
 <p align="center">
     <img id="effective java" src="EffectiveJava.JPG" style="width: 300px;">
 </p>
@@ -17,11 +16,6 @@
 #### Additional stuff.
 
 - [x] All over the web, or example this one. [Source](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Effective%20Java,%202nd%20Edition.pdf)! ✅
-
-
-
-
-
 
 
 
@@ -39,18 +33,32 @@
 
 #### Progress/Curriculum.
 
-- [ ] [Section 01: Introduction](#)
-- [ ] [Section 02: Hardware - CPU](#)
-- [ ] [Section 02: Hardware - RAM](#)
-- [ ] [Section 03: Hardware - Video](#)
-- [ ] [Section 04: Hardware - Audio](#)
-- [ ] [Section 05: (Reserved / Next Part)](#)
+- [ ] [Section 01: Introduction](#).
+    - ...
+- [ ] [Section 02: Hardware](#).
+    - ...
+- [ ] [Section 03: Team](#).
+    - ...
+- [ ] [Section 04: Software](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#section-04---software)
+    - [ ] [Tricks](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#tricks).
+        - [ ] [Cos/Sin Table Lookup](#).
+        - [ ] [FizzleFade](https://github.com/developersCradle/books/tree/main/Books/Game%20Engine%20Black%20Book%203d/Game%20Engine%20Black%20Book%203d/Section%2004%20-%20Software#fizzlefade).
+        - [ ] [Palette](#).
+- [ ] [Section 05: Sequels](#).
+    - ...
+- [ ] [Section 06: Ports](#)
+    - ...
+- [ ] [Section 07: Epilogue](#)
+    - ...
 
 #### Additional stuff.
 
 - [x] [Source](https://fabiensanglard.net/gebbwolf3d/)! ✅
-
+- Make the folder as in the book hierarchy.
 - Add this to chapter. (https://www.youtube.com/watch?v=LUbrzg21X9c).
+
+
+
 
 <p align="center">
     <img id="reftoring" src="refactoringBook.PNG" style=" width: 300px;">
