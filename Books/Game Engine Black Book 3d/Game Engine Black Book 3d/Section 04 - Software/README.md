@@ -71,25 +71,18 @@ Software Section.
 
 
 <div align="center">
-    <img src="Game Engine Black Book 3d-239.png" alt="wolfeinstein 3d" width="700"/>
+    <img src="Game Engine Black Book 3d-245.png" alt="wolfeinstein 3d" width="700"/>
 </div>
-
-
 
 
 
 <div align="center">
-    <img src="Game Engine Black Book 3d-239.png" alt="wolfeinstein 3d" width="700"/>
+    <img src="Game Engine Black Book 3d-246.png" alt="wolfeinstein 3d" width="700"/>
 </div>
-
-
-
-
 
 <div align="center">
-    <img src="Game Engine Black Book 3d-239.png" alt="wolfeinstein 3d" width="700"/>
+    <img src="Game Engine Black Book 3d-246.png" alt="wolfeinstein 3d" width="700"/>
 </div>
-
 
 
 ### Palette.

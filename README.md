@@ -125,6 +125,10 @@
 
 
 
+#### In future!
 
-
-
+<p align="center">
+    <img id="studying" src="toBeReaded.PNG" style="height: 500px; width: 800px;">
+    <img id="studying" src="toBeReaded2.PNG" style="height: 500px; width: 800px;">
+  <text>✨Books to be readed!✨</text>
+</p>
